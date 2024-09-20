@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs />
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\GraphicsEngine\Build\x64\Release\Ass01.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\GraphicsEngine\Build\x64\Release\Lab03.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\GraphicsEngine\Build\x64\Release\PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\GraphicsEngine\Build\x64\Release\shader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\GraphicsEngine\Build\x64\Release\VS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

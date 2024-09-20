@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs />
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\2024_GGP\Build\x64\Debug\Ass01.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\2024_GGP\Build\x64\Debug\PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\2024_GGP\Build\x64\Debug\shader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\2024_GGP\Build\x64\Debug\VS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
